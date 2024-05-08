@@ -26,7 +26,13 @@
 
 ## Run Streamlit
 - #### Create a python script for streamlit web application
-- Execute ##streamlite run pythonscript.py##
+- Execute ##streamlit run your_script.py [-- script args]##
+- equivalently you can run ##python -m streamlit run your_script.py##
   ![image](https://github.com/smaran24/streamlit/assets/88144150/d44cfdce-7508-46f5-807a-a8f06876af79)
   ![image](https://github.com/smaran24/streamlit/assets/88144150/53a715ee-8049-45fa-a615-0615cc793442)
 
+## Streamlit highlights
+
+
+## Markdown Cheatsheet
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
